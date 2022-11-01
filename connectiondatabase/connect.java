@@ -10,7 +10,7 @@ public class connect {
 				try {
 		        	String dbURL = "jdbc:sqlserver://localhost;databaseName=QUANLYTRUONGHOC";
 			        String user = "sa";
-			        String pass = "vdt1410";
+			        String pass = "xxxxxxxx";
 			        
 					conn = DriverManager.getConnection(dbURL, user, pass);
 					
